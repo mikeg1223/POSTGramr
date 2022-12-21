@@ -9,11 +9,11 @@ POSTGramr is a node based website with static front end components. POSTGramr's 
 4. Set the App Permissions to Read and Write
 5. Set Type of App to Web App, Automated App, or Bot
 6. Add the following URI's:
-    http://127.0.0.1:3000/twitter_token
-    http://127.0.0.1/twitter_token
-    http://127.0.0.1:3000
-    http://127.0.0.1/receive_code
-    http://127.0.0.1:3000/receive_code
+    http://127.0.0.1:3000/twitter_token , 
+    http://127.0.0.1/twitter_token , 
+    http://127.0.0.1:3000 , 
+    http://127.0.0.1/receive_code , 
+    http://127.0.0.1:3000/receive_code , 
     http://127.0.0.1
 7. Set the website URL to be the direct link to the twitter profile connected to your developer account.
 8. Go back to the App details page for your project and navigate to the Keys and Tokens tab
